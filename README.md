@@ -1,4 +1,4 @@
 GitHubClass-Brenda
 ==================
 
-This is a repository created during training
+This is a repository created during training!
